@@ -2,7 +2,6 @@
 
 
 ## 버전 정리
-------------------------
 java 17
 
 spring boot 3.3.4
@@ -12,5 +11,11 @@ mysql 8.0.40
 spring security 6.2.1
 
 jwt 0.12.3
+
+
+
+
+
+
 
 [참고 영상](https://www.youtube.com/watch?v=NPRh2v7PTZg)
